@@ -1,0 +1,7 @@
+Installation:
+1)Type tar -xvzf Chess_Alpha_src.tar.gz
+2)Type cd  Chess_Alpha_src
+3)Type make
+
+Users: Please refer to the user manual for more details.
+Developers: PLease refer to the software specification for more details.
