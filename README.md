@@ -1,3 +1,5 @@
+# Chess Program
+
 Authors: Tristan Guinto
 	 Andrew Huynh
 	 Joel Darryl Ingal
